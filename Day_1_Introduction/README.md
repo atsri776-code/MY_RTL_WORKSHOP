@@ -1,29 +1,23 @@
-Day 1 – RTL Design Fundamentals
 
-Objective
 
-Explore the RTL design workflow and learn how to implement a digital circuit using Verilog HDL.
+Added The RTL design workflow, Verilog code, testbench, simulation waveform, and synthesis results below.
 
-Topics Covered
+1. RTL Design Flow
 
-- RTL design basics
-- Verilog modules and testbenches
-- 2:1 multiplexer design
-- Functional simulation
-- Waveform analysis
-- Logic synthesis
+"RTL Design Flow" (images/rtl_design_flow.png)
 
-Tools
+2. Verilog Code
 
-- Verilog HDL
-- Icarus Verilog
-- GTKWave
-- Yosys
+"Verilog Code" (images/verilog_code.png)
 
-Experiment Results
+3. Testbench
 
-Source code, simulation output, waveform screenshots, and synthesis reports will be added after completing the experiments.
+"Testbench" (images/testbench.png)
 
-Conclusion
+4. Simulation Waveform
 
-This session introduces the essential steps involved in digital circuit design, simulation, and synthesis.
+"Simulation Waveform" (images/simulation_waveform.png)
+
+5. Synthesis Output
+
+"Synthesis Output" (images/yosys_output.png)
